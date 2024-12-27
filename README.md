@@ -1,7 +1,6 @@
 # Hi there, I'm Uttam Verma! 👋
 
-## About Me
-${\Large \textbf{\color[rgb]{0.12941,0.48235,0.99608}N\color[rgb]{0.57647,0.60392,1}e\color[rgb]{0.91765,0.47843,0.72157}w\color[rgb]{0.93333,0.30196,0.36471}:}}$
+## ${\Large \textbf{\color[rgb]{0.0,0.5,0.8}A\color[rgb]{0.0,0.7,0.0}b\color[rgb]{0.0,0.5,0.8}o\color[rgb]{0.0,0.7,0.0}u\color[rgb]{0.0,0.5,0.8}t\color[rgb]{0.0,0.7,0.0} \color[rgb]{0.5,0.5,0.5}M\color[rgb]{0.0,0.5,0.8}e:}}$
 I'm a passionate software developer with a keen interest in web development, machine learning, and open-source contributions. I love exploring new technologies and continuously improving my skills.
 
 - 🌱 I’m currently learning **Next.js** and **Linux** for web development and the **MERN** stack.
