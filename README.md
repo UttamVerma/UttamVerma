@@ -29,3 +29,14 @@ I'm a passionate software developer with a keen interest in web development, mac
 
 
 
+<script>
+  setTimeout(() => {
+    document.getElementById("github-snake").src = "https://raw.githubusercontent.com/UttamVerma/UttamVerma/output/github-snake.svg";
+  }, 2000); // 2 seconds delay
+</script>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UttamVerma/UttamVerma/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UttamVerma/UttamVerma/output/github-snake.svg" />
+  <img id="github-snake" alt="github-snake" src="" />
+</picture>
