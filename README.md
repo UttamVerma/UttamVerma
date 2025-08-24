@@ -1,6 +1,6 @@
 # Hi there, I'm Uttam Verma! 👋
 
-### ${\Large \textbf{\color[rgb]{0.0,0.5,0.8}A\color[rgb]{0.0,0.7,0.0}b\color[rgb]{0.0,0.5,0.8}o\color[rgb]{0.0,0.7,0.0}u\color[rgb]{0.0,0.5,0.8}t\color[rgb]{0.0,0.7,0.0} \color[rgb]{0.5,0.5,0.5}M\color[rgb]{0.0,0.5,0.8}e:}}$
+### About Me
 
 I'm a passionate software developer specializing in web development, machine learning, and open-source contributions. With a strong foundation in modern technologies, I thrive on building scalable applications, exploring AI-driven solutions, and collaborating on innovative projects. I enjoy solving complex problems, optimizing code for performance, and staying ahead of industry trends through continuous learning.
 
