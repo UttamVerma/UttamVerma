@@ -13,7 +13,9 @@ I'm a passionate software developer specializing in web development, machine lea
 - 💬 Ask me about **web apps and JavaScript libraries**.  
 - ⚡ Fun fact: I believe every bug is just an *undocumented feature*! 😄
 
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=UttamVerma&style=flat-square&color=blue" alt="Profile Views" />
+</div>
 
 ## 🛠️ Skills & Technologies
 
