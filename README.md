@@ -53,7 +53,6 @@ I'm a passionate software developer specializing in web development, machine lea
 <div align="center">  
 <a href="https://github.com/UttamVerma">  
   <img src="https://github-readme-stats.vercel.app/api?username=UttamVerma&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UttamVerma&theme=tokyonight&hide_border=true" height="170"/>  
 </a>  
 </div>  
 
