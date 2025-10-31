@@ -67,5 +67,6 @@ I'm a passionate software developer specializing in web development, machine lea
 
 ![snake gif](https://github.com/UttamVerma/UttamVerma/blob/output/pacman-contribution-graph-dark.svg)
 
+
 ---
  
