@@ -2,7 +2,7 @@ name: Generate pacman animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Run once every 24 hours (avoid rate limits)
+    - cron: "0 0 * * *" # once per day
   workflow_dispatch:
   push:
     branches:
@@ -23,21 +23,24 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          output_path: dist # ✅ ensures SVGs are saved in /dist folder
+          output_path: dist
 
-      - name: List generated files (for debugging)
+      - name: Add .nojekyll (to make GitHub Pages work)
+        run: echo "" > dist/.nojekyll
+
+      - name: List generated files
         run: ls -R dist
 
-      - name: Push pacman-contribution-graph.svg to output branch
+      - name: Push pacman files to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
-          keep_history: true # ✅ keeps old files so your animation doesn't vanish
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Verify output branch (optional debug)
+      - name: Verify output branch
         run: |
           git fetch origin output
           git checkout output
