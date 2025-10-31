@@ -65,4 +65,8 @@ I'm a passionate software developer specializing in web development, machine lea
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 ---
-![Pacman gif](https://uttamverma.github.io/UttamVerma/pacman-contribution-graph-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://uttamverma.github.io/UttamVerma/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://uttamverma.github.io/UttamVerma/pacman-contribution-graph.svg">
+  <img alt="pacman" src="https://uttamverma.github.io/UttamVerma/pacman-contribution-graph.svg">
+</picture>
