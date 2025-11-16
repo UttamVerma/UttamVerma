@@ -6,8 +6,7 @@ I'm a passionate software developer specializing in web development, machine lea
 
 👨‍💻 I'm a passionate **software developer** interested in **web development**, **machine learning**, and contributing to **open-source** projects.  
 ✨ I enjoy building scalable, modern applications and learning new tools and frameworks.  
-
-- 🌱 Currently learning **Next.js**, **Linux**, and the **MERN Stack**.  
+ 
 - 👯 Open to collaborating on **MERN** or **JavaScript library** projects.  
 - 🤔 Exploring advanced **React patterns** and performance optimizations.  
 - 💬 Ask me about **web apps and JavaScript libraries**.  
@@ -65,4 +64,4 @@ I'm a passionate software developer specializing in web development, machine lea
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 ---
-![snake gif](https://github.com/UttamVerma/UttamVerma/blob/output/snake.svg)
+![snake gif](https://github.com/UttamVerma/UttamVerma/blob/output/pacman-contribution-graph-dark.svg)
