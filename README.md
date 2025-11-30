@@ -42,15 +42,6 @@ I'm a passionate software developer specializing in web development, machine lea
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-## 📊 GitHub Stats
-
-<div align="center">  
-<a href="https://github.com/UttamVerma">  
-  <img src="https://github-readme-stats.vercel.app/api?username=UttamVerma&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170"/>  
-</a>  
-</div>  
-
- 
 ## 🔗 Connect with Me
 
 <div align="center">  
@@ -64,4 +55,4 @@ I'm a passionate software developer specializing in web development, machine lea
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 ---
-![snake gif](https://github.com/UttamVerma/UttamVerma/blob/output/snake.svg)
+![snake gif](https://github.com/UttamVerma/UttamVerma/blob/output/pacman-contribution-graph-dark.svg)
