@@ -41,6 +41,10 @@ I'm a passionate software developer specializing in web development, machine lea
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UttamVerma&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 
 ## 🔗 Connect with Me
 
@@ -56,5 +60,5 @@ I'm a passionate software developer specializing in web development, machine lea
 
 ---
 <picture>
-  <img alt="Pac-Man contribution graph" src="https://github.com/UttamVerma/UttamVerma/blob/output/pacman-contribution-graph-dark.svg">
+  <img alt="Pac-Man contribution graph" src="https://github.com/UttamVerma/UttamVerma/blob/output/snake.svg">
 </picture>
