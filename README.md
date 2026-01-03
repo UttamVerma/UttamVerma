@@ -56,5 +56,5 @@ I'm a passionate software developer specializing in web development, machine lea
 
 ---
 <picture>
-  <img alt="Pac-Man contribution graph" src="https://github.com/UttamVerma/UttamVerma/blob/output/snake.svg">
+  <img alt="Pac-Man contribution graph" src="https://github.com/UttamVerma/UttamVerma/blob/output/pacman-contribution-graph-dark.svg">
 </picture>
